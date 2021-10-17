@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0ff28fcd6641937e483ef6e09d9462426949cee0 John Doe <johndoe@example.com> 1634463216 +0800	commit (initial): commit description
+0ff28fcd6641937e483ef6e09d9462426949cee0 0ff28fcd6641937e483ef6e09d9462426949cee0 John Doe <johndoe@example.com> 1634464178 +0800	checkout: moving from master to test1
+0ff28fcd6641937e483ef6e09d9462426949cee0 c0c382abbfb6b22ada565384d7106dc77ac28b1a John Doe <johndoe@example.com> 1634464564 +0800	commit: commit description_2
+c0c382abbfb6b22ada565384d7106dc77ac28b1a 0ff28fcd6641937e483ef6e09d9462426949cee0 John Doe <johndoe@example.com> 1634464833 +0800	checkout: moving from test1 to master
+0ff28fcd6641937e483ef6e09d9462426949cee0 c0c382abbfb6b22ada565384d7106dc77ac28b1a John Doe <johndoe@example.com> 1634464845 +0800	merge test1: Fast-forward

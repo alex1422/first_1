@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[user]
+	name = John Doe
+	email = johndoe@example.com
+[remote "origin"]
+	url = https://github.com/alex1422/first_1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
